@@ -4,3 +4,6 @@ Data Structure and Algorithm.
 Aamir Qadir Sofi
 # Student 
 Abhay t
+
+CR
+Adeal
